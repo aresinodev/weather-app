@@ -45,22 +45,22 @@ export class InitScreen extends LitElement {
       <section>
         <div class="weather-icons">
           <img
-            src="./src/assets/sun-cloud-icon.png"
+            src="/sun-cloud-icon.png"
             alt="sun cloud icon"
             title="sun cloud icon"
           />
           <img
-            src="./src/assets/sun-icon.png"
+            src="/sun-icon.png"
             alt="sun icon"
             title="sun icon"
           />
           <img
-            src="./src/assets/storm-icon.png"
+            src="/storm-icon.png"
             alt="storm icon"
             title="storm icon"
           />
           <img
-            src="./src/assets/rain-icon.png"
+            src="/rain-icon.png"
             alt="rain icon"
             title="rain icon"
           />
